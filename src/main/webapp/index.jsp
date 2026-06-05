@@ -50,7 +50,7 @@
         .container {
             width: 100%;
             max-width: var(--container);
-            margin: 0 auto;
+            margin: 1 auto;
             padding: 0 20px;
         }
 
